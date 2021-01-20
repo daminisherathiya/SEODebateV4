@@ -216,7 +216,7 @@ p {
   font-family: AvertaCY-Bold;
 }
 .resources-container {
-  margin-top: 23px;
+  margin-top: 30px;
 }
 .resource-box {
   border-radius: 8px;
@@ -394,6 +394,9 @@ p {
 @media (max-width: 1200px) {
   .navbar-nav li {
     text-align: center;
+  }
+  .navigation-section {
+    background-color: #f5f7fb;
   }
   .intro-p1-bg {
     margin-right: 0;
